@@ -16,7 +16,7 @@ This repository contains a collection of my Mac OS applications and dotfiles.
 
 - [Visual Studiio Code](https://code.visualstudio.com/) - The code editor I mainly use
 
-- [Cursol](https://cursor.sh/) - AI-powered code editor
+- [Cursor](https://cursor.sh/) - AI-powered code editor
 
 ## Terminal install
 
@@ -32,7 +32,7 @@ This repository contains a collection of my Mac OS applications and dotfiles.
 
 # Git / GitHub
 
-- [.gitconfig](/.gitconfig)
+- [gitconfig](/.gitconfig)
 
 ## Shell setup
 
