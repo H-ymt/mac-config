@@ -1,0 +1,9 @@
+[user]
+	email = Email
+	name = GitHub Username
+[push]
+	default = current
+[init]
+	defaultBranch = main
+[alias]
+	g = git
