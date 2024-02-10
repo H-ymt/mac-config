@@ -1,69 +1,61 @@
-# Mac OS dev setup
+# Application and dotfiles for developing on Mac
 
 ## Feature
 
 This repository contains a collection of my Mac OS applications and dotfiles.
 
-## Application
+## Browser install
 
-### Browser
+- [Arc](https://arc.net/) - The web browser I usually use
 
-#### [Arc](https://arc.net/)
+- [Google Chrome](https://www.google.com/intl/ja_jp/chrome/) - Used at work
 
-The web browser I usually use
+- [Min](https://minbrowser.org/) - Smarter web browser.
 
-#### [Google Chrome](https://www.google.com/intl/ja_jp/chrome/)
+## Code Edior install
 
-Used at work
+- [Visual Studiio Code](https://code.visualstudio.com/) - The code editor I mainly use
 
-#### [Min](https://minbrowser.org/)
+- [Cursol](https://cursor.sh/) - AI-powered code editor
 
-Smarter web browser.
+## Terminal install
 
-### [Visual Studiio Code](https://code.visualstudio.com/)
+- [Warp](https://www.warp.dev/) - Rust-based terminal, I was using iTerm but have now switched to Warp
 
-The code editor I mainly use
+- [iTerm](https://iterm2.com/)
 
-### [Cursol](https://cursor.sh/)
+- [Fig](https://fig.io/) - Expansion of command line
 
-AI-powered code editor
+## Launcher app install
 
-### [Raycast](https://www.raycast.com/)
+- [Raycast](https://www.raycast.com/) - Blazingly fast, totally extendable launcher.
 
-Blazingly fast, totally extendable launcher.
+# Git / GitHub
 
-### [Warp](https://www.warp.dev/)
+- [.gitconfig](/.gitconfig)
 
-Rust-based terminal, I was using iTerm but have now switched to Warp
+## Shell setup
 
-### iTerm
+- [.zshrc](/.zshrc)
 
-### Fig
+- [Oh My Zsh](https://ohmyz.sh/) - A designful community-driven framework for managing zsh configuration.
 
-### Local
+## Utils
 
-### Karabiner Elements
+- Local
 
-### Raindrop.io
+- Karabiner Elements
 
-### Gyazo
+- Raindrop.io
 
-### AutoRaise
+- Gyazo
 
-### MonitorControl
+- AutoRaise
 
-### Notion
+- MonitorControl
 
-### WattsConnected
+- [Notion](https://www.notion.so/ja-jp)
 
-### MacWinZipper
+- [WattsConnected](https://apps.apple.com/jp/app/wattsconnected/id1639692859)
 
-## Git / GitHub
-
-### [.gitconfig](/.gitconfig)
-
-## zsh
-
-### [Oh My Zsh](https://ohmyz.sh/)
-
-A designful community-driven framework for managing zsh configuration.
+- MacWinZipper
