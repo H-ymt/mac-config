@@ -10,11 +10,11 @@ This repository contains a collection of my Mac OS applications and dotfiles.
 
 #### [Arc](https://arc.net/)
 
-Browser that keeps everything organized in one window
+The web browser I usually use
 
 #### [Google Chrome](https://www.google.com/intl/ja_jp/chrome/)
 
-Chrome is the official fast, secure, and customizable web browser developed by Google
+Used at work
 
 #### [Min](https://minbrowser.org/)
 
@@ -28,11 +28,13 @@ The code editor I mainly use
 
 AI-powered code editor
 
-### Raycast
+### [Raycast](https://www.raycast.com/)
 
 Blazingly fast, totally extendable launcher.
 
-### Warp
+### [Warp](https://www.warp.dev/)
+
+Rust-based terminal, I was using iTerm but have now switched to Warp
 
 ### iTerm
 
