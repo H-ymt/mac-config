@@ -36,8 +36,6 @@ This repository contains a collection of my Mac OS applications and dotfiles.
 
 ## Shell setup
 
-- [.zshrc](/.zshrc)
-
 - [Oh My Zsh](https://ohmyz.sh/) - A designful community-driven framework for managing zsh configuration.
 
 ## Utils
