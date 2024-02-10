@@ -1,7 +1,5 @@
 # Application and dotfiles for developing on Mac
 
-## Feature
-
 This repository contains a collection of my Mac OS applications and dotfiles.
 
 ## Browser install
