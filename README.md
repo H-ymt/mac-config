@@ -40,18 +40,19 @@ This repository contains a collection of my Mac OS applications and dotfiles.
 
 - Local
 
-- Karabiner Elements
+- [Karabiner Elements](https://karabiner-elements.pqrs.org/) - I don't use Vim, but I really like using "hjkl" to move the cursor. So let's a Import "Left ctrl + hjkl to arrow keys Vim" rule.
+  [(https://ke-complex-modifications.pqrs.org/)](https://ke-complex-modifications.pqrs.org/)
 
-- Raindrop.io
+- [Raindrop.io](https://raindrop.io/)
 
-- Gyazo
+- [Gyazo](https://gyazo.com/ja)
 
-- AutoRaise
+- [AutoRaise](https://github.com/sbmpost/AutoRaise) - Preferences: Widow raise disabled: None, Delay window focus for: 0 ms
 
-- MonitorControl
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
 - [Notion](https://www.notion.so/ja-jp)
 
 - [WattsConnected](https://apps.apple.com/jp/app/wattsconnected/id1639692859)
 
-- MacWinZipper
+- [MacWinZipper](https://tida.co.jp/macwinzipper)
