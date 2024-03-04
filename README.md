@@ -35,8 +35,7 @@ This repository contains a collection of my Mac OS applications and dotfiles.
 ## Shell setup
 
 - [Oh My Zsh](https://ohmyz.sh/) - A designful community-driven framework for managing zsh configuration.
-- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/tree/master) - A very useful plugin that displays command candidates and completes input based on the terminal's command history.
-
+- [Amazon CodeWhisperer](https://aws.amazon.com/jp/codewhisperer/resources/) - Command completion tool
 ## Utils
 
 - Local
