@@ -22,8 +22,6 @@ This repository contains a collection of my Mac OS applications and dotfiles.
 
 - [iTerm](https://iterm2.com/)
 
-- [Fig](https://fig.io/) - Expansion of command line
-
 ## Launcher app install
 
 - [Raycast](https://www.raycast.com/) - Blazingly fast, totally extendable launcher.
@@ -38,7 +36,7 @@ This repository contains a collection of my Mac OS applications and dotfiles.
 - [Amazon CodeWhisperer](https://aws.amazon.com/jp/codewhisperer/resources/) - Command completion tool
 ## Utils
 
-- Local
+- [Local](https://localwp.com/) - App for developing wordpress locally
 
 - [Karabiner Elements](https://karabiner-elements.pqrs.org/) - I don't use Vim, but I really like using "hjkl" to move the cursor. So let's a Import "Left ctrl + hjkl to arrow keys Vim" rule.
   [(https://ke-complex-modifications.pqrs.org/)](https://ke-complex-modifications.pqrs.org/)
