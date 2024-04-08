@@ -26,7 +26,7 @@ This repository contains a collection of my Mac OS applications and dotfiles.
 
 - [Raycast](https://www.raycast.com/) - Blazingly fast, totally extendable launcher.
 
-# Git / GitHub
+## Git / GitHub
 
 - [gitconfig](/.gitconfig)
 
