@@ -10,7 +10,7 @@ This repository contains a collection of my Mac OS applications and dotfiles.
 
 - [Min](https://minbrowser.org/) - Smarter web browser.
 
-## Code Edior install
+## Code Editor install
 
 - [Visual Studiio Code](https://code.visualstudio.com/) - The code editor I mainly use
 
