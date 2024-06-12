@@ -1,0 +1,21 @@
+{
+    "workbench.colorCustomizations": {
+    "[Haki Neosolarized V3]": {
+      "editorLineNumber.activeForeground": "#a69e65",
+      "editorLineNumber.foreground": "#4b4a4a"
+    },
+    "[NeoSolarized Custom]": {
+      "contrastActiveBorder": "#a69e651e",
+      "editorLineNumber.activeForeground": "#a69e65",
+      "editorLineNumber.foreground": "#4b4a4a"
+    },
+    "[NeoSolarized Theme]": {
+      "editorGroup.border": "#68666628",
+      "editorLineNumber.activeForeground": "#a69e65",
+      "editorLineNumber.foreground": "#686666",
+      "statusBar.border": "#a66d6d00",
+      "tab.activeBorder": "#686666",
+      "tab.border": "#686666"
+    }
+  },
+}
